@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple organizer</string>
+    <string name="MonthAndYearStringFormat">MMMM(yyyy)</string>
+    <string name="SingleSelection">Single selection</string>
+    <string name="MultipleSelection">Multiple selection</string>
+    <string name="DayWeekStringFormat" translatable="false">EEEE</string>
+    <string name="TitleYearStringFormat">" yyyy calendar"</string>
+    <string name="appwidget_text" translatable="false">TEST</string>
+    <string name="add_widget" translatable="false">Add widget</string>
+    <string name="app_widget_description" translatable="false">This is an app widget description</string>
+</resources>
